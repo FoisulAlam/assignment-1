@@ -1,5 +1,6 @@
 body {
     background-color: white;
+    font-family: 'Playfair Display', serif;
 }
 
 .main {
@@ -235,4 +236,21 @@ a {
     padding-top: 100px;
     padding-bottom: 100px;
 
+}
+
+
+.Charity {
+    width: 1024px;
+    min-height: 600px;
+    text-align: center;
+}
+
+.threeBoxContainer {}
+
+.threeBoxContainer {
+    display: flex;
+}
+
+.CharityBox1 a {
+    text-decoration: none;
 }
